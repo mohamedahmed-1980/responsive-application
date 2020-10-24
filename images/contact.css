@@ -1,0 +1,26 @@
+body {
+  padding-top: 100px;
+  padding-bottom: 20px;
+}
+.h4,
+h4 {
+  font-size: 1.5rem;
+  color: white;
+}
+
+/*lable*/
+label {
+  display: inline-block;
+  margin-bottom: 0.7rem;
+  font-size: 1.3rem;
+  margin-top: 0.7rem;
+}
+
+/*BTN*/
+.btn-primary {
+  color: #fff;
+  background-color: #3e3c3d;
+  border-color: #9fa1a3;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
