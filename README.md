@@ -24,3 +24,8 @@
 - I used an HTML validation service.
   - i make sure that all html files work fine
 - i make two links on for Github repo and anther one to make the wepsite works live
+
+### links
+
+<a href = "https://github.com/mohamedahmed-1980/responsive-application.git"> </a>
+<a href="https://mohamedahmed-1980.github.io/responsive-application/"> my website</a>
